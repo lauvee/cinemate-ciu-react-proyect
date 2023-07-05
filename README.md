@@ -16,3 +16,6 @@ Tecnologías utilizadas
 - Tailwind CSS
 - TMDB API: La aplicación utiliza la API de TMDB (The Movie Database) para obtener información sobre películas. La API de TMDB ofrece una amplia gama de datos sobre películas, como detalles de películas individuales, resultados de búsqueda y películas populares.
 
+### Contribución
+- Laura Novas 
+
